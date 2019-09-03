@@ -5,6 +5,8 @@ out put of the code will be this type of pattern
        ***
       *****
      *******
+     
+     Created By Anilabha Baral
 
 */
 
